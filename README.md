@@ -1,6 +1,6 @@
 # Mise en conformité NIS2 — cas HydroRégie
 
-Cas pratique de 2 jours, La Plateforme_ Marseille — auteur : Samet ARI.
+Cas pratique de 2 jours, La Plateforme_ Marseille
 Il prolonge le projet RGPD conduit précédemment (X-corp).
 
 **Mission.** Une équipe projet est mandatée par HydroRégie, régie des eaux (450 000 habitants) qualifiée entité essentielle, pour conduire sa mise en conformité à la directive (UE) 2022/2555 (NIS2) : qualification, analyse d'écart, architecture IT/OT et gestion de crise.
